@@ -6,6 +6,7 @@ public class Programa {
 		// Exemplo de integração do Eclipse com Git
 		
 		System.out.println("Hello Git");
+		// Alterado no git.
 		
 
 	}
